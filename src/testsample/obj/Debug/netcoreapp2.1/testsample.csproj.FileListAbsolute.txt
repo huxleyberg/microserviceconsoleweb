@@ -1,0 +1,11 @@
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/bin/Debug/netcoreapp2.1/testsample.deps.json
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/bin/Debug/netcoreapp2.1/testsample.runtimeconfig.json
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/bin/Debug/netcoreapp2.1/testsample.runtimeconfig.dev.json
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/bin/Debug/netcoreapp2.1/testsample.dll
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/bin/Debug/netcoreapp2.1/testsample.pdb
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/obj/Debug/netcoreapp2.1/testsample.csprojAssemblyReference.cache
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/obj/Debug/netcoreapp2.1/testsample.csproj.CoreCompileInputs.cache
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/obj/Debug/netcoreapp2.1/testsample.AssemblyInfoInputs.cache
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/obj/Debug/netcoreapp2.1/testsample.AssemblyInfo.cs
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/obj/Debug/netcoreapp2.1/testsample.dll
+/Users/zedcrest/Documents/development/apps/dotnetconsole sample/src/testsample/obj/Debug/netcoreapp2.1/testsample.pdb
